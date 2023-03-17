@@ -6,7 +6,7 @@ import trainbooking.*;
 public class Admin {
 
     Scanner input = new Scanner(System.in);
-    public ArrayList<Traindetails> traindetails = new ArrayList<>();
+    public List<Traindetails> traindetails = new ArrayList<>();
 //    BookTrain bookTrain = new BookTrain();
     Float trainstartTime;
     Float trainendTime;
@@ -60,6 +60,7 @@ public class Admin {
                     break;
                 case 4:
                     Main.main(null);
+                    break;
                 default:
                     System.out.print(" \n Invalid Choice ");
                     break;
@@ -243,6 +244,7 @@ public class Admin {
                     break;
                 case 5:
 //                    admin.options();
+                    break;
                 default:
                     System.out.print(" \n Invalid Choice\n ");
                     break;

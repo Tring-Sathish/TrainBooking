@@ -41,14 +41,19 @@ public class BookTrain {
 			switch (choice) {
 				case 1:
 					chairCar();
+					break;
 				case 2:
 					sleeperCar();
+					break;
 				case 3:
 					chairCarAc();
+					break;
 				case 4:
 					sleeperCarAc();
+					break;
 				case 5:
 					bookTrain();
+					break;
 			}
 		}
 	}
@@ -75,7 +80,7 @@ public class BookTrain {
 					break;
 
 				case 3:
-					System.out.print("\nEnter the Number of seats you want : ");
+					System.out.print("\nEnter the Number of seats you want to: ");
 					break;
 
 				case 4:
@@ -99,11 +104,11 @@ public class BookTrain {
 					break;
 
 				case 2:
-					System.out.print("\nEnter the Number of seats you want : ");
+					System.out.print("\nEnter the Number of seats you want to : ");
 					break;
 
 				case 3:
-					System.out.print("\nEnter the Number of seats you want : ");
+					System.out.print("\nEnter the Number of seats you want t: ");
 					break;
 
 				case 4:
@@ -129,19 +134,19 @@ public class BookTrain {
 					break;
 
 				case 2:
-					System.out.print("\nEnter the Number of seats you want : ");
+					System.out.print("\nEnter the Number of seats you want t: ");
 					break;
 
 				case 3:
-					System.out.print("\nEnter the Number of seats you want : ");
+					System.out.print("\nEnter the Number of seats you want to: ");
 					break;
 
 				case 4:
-					System.out.print("\nEnter the Number of seats you want : ");
+					System.out.print("\nEnter the Number of seats you want t : ");
 					break;
 
 				case 5:
-					System.out.print("\nEnter the Number of seats you want : ");
+					System.out.print("\nEnter the Number of seats you want to : ");
 					break;
 
 				default:
@@ -163,19 +168,19 @@ public class BookTrain {
 					break;
 
 				case 2:
-					System.out.print("\nEnter the Number of seats you want : ");
+					System.out.print("\nEnter the Number of seats you want to: ");
 					break;
 
 				case 3:
-					System.out.print("\nEnter the Number of seats you want : ");
+					System.out.print("\nEnter the Number of seats you want  : ");
 					break;
 
 				case 4:
-					System.out.print("\nEnter the Number of seats you want : ");
+					System.out.print("\nEnter the Number of seats you want: ");
 					break;
 
 				case 5:
-					System.out.print("\nEnter the Number of seats you want : ");
+					System.out.print("\nEnter the Number of seats you want to : ");
 					break;
 
 				default:

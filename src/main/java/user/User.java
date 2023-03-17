@@ -42,6 +42,7 @@ public class User {
 
 				case 3:
 					Main.main(null);
+					break;
 				default:
 					System.out.print("\nInvalid Choice\n");
 					break;
@@ -78,6 +79,7 @@ public class User {
 
 					case 2:
 						user();
+						break;
 				}
 			}
 		}

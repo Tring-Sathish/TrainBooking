@@ -29,6 +29,7 @@ public class Main {
 
                 case 3:
                     System.exit(0);
+                    break;
 
                 default:
                     System.out.print("\nInvalid Choice\n");
