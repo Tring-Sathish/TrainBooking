@@ -1,7 +1,7 @@
-package User;
+package user;
 
 import java.util.*;
-import Admin.*;
+import admin.*;
 
 public class BookTrain {
 	Scanner input = new Scanner(System.in);

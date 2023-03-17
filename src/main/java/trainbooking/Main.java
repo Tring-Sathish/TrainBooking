@@ -1,8 +1,8 @@
-package Trainbooking;
+package trainbooking;
 
 import java.util.*;
-import Admin.*;
-import User.*;
+import admin.*;
+import user.*;
 
 public class Main {
 

@@ -1,9 +1,9 @@
-package User;
+package user;
 
 import java.util.*;
 
-import Admin.*;
-import Trainbooking.*;
+import admin.*;
+import trainbooking.*;
 
 public class User {
 	Scanner input = new Scanner(System.in);
